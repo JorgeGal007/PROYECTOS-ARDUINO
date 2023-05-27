@@ -21,10 +21,8 @@ void setup() {
   lcd.clear();*/
 
   lcd.init();
-  
-
   lcd.backlight();
-  lcd.write(5);
+  lcd.write(0);
 
 }
 
